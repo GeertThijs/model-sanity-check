@@ -5,7 +5,7 @@
   "eap": "ModelSanityCheck.eap",
   "diagram": " ModelSanityCheck",
   "template": "mijn-applicatieprofiel-ap.j2",
-  "title": "Mijn Applicatieprofiel",
+  "title": "ModelSanityCheck",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2022-07-01",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
