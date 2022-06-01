@@ -1,8 +1,8 @@
 [
 {
-  "name": "ModelSanityCheck",
+  "name": "ModelSanityCheckTest",
   "type": "ap",
-  "eap": "ModelSanityCheck.eap",
+  "eap": "ModelSanityCheck02test.eap",
   "diagram": " ModelSanityCheck",
   "template": "mijn-applicatieprofiel-ap.j2",
   "title": "ModelSanityCheck",
