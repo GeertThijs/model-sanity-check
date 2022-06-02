@@ -3,7 +3,7 @@
   "name": "ModelSanityCheck",
   "type": "ap",
   "eap": "ModelSanityCheck02test.eap",
-  "diagram": " ModelSanityCheckTest",
+  "diagram": "ModelSanityCheckTest",
   "template": "mijn-applicatieprofiel-ap.j2",
   "title": "ModelSanityCheck",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
